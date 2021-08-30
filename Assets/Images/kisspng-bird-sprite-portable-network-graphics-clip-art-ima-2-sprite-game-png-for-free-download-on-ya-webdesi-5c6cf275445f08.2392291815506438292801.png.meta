@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 14f39d1d9a1194e43bfec9ad26e02165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4346745403725932378
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_0
+  - first:
+      213: -5598768163648451175
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_1
+  - first:
+      213: -5673940652164029689
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_2
+  - first:
+      213: 6279793176914465916
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_3
+  - first:
+      213: -5188314886992209118
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_4
+  - first:
+      213: -5249331412069572811
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_5
+  - first:
+      213: -7823665533768134916
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_6
+  - first:
+      213: -966581867978890256
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_7
+  - first:
+      213: -8963095180531730469
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_8
+  - first:
+      213: 6879178627098715406
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_9
+  - first:
+      213: 4375772411514110870
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_10
+  - first:
+      213: -6583741589294599189
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_11
+  - first:
+      213: 299564891328827348
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_12
+  - first:
+      213: -4729469190351484201
+    second: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 362
+        width: 146
+        height: 143
+      alignment: 9
+      pivot: {x: 0.4362207, y: 0.36976507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a89ad9d5124da3c0800000000000000
+      internalID: -4346745403725932378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 363
+        width: 146
+        height: 141
+      alignment: 9
+      pivot: {x: 0.4411268, y: 0.36791775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dc7f9c40e2d42b0800000000000000
+      internalID: -5598768163648451175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 364
+        width: 146
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4411268, y: 0.3953111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7036d17e90d1241b0800000000000000
+      internalID: -5673940652164029689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 367
+        width: 171
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5251336, y: 0.42367378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7498e46f9e462750800000000000000
+      internalID: 6279793176914465916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 370
+        width: 182
+        height: 88
+      alignment: 9
+      pivot: {x: 0.53935695, y: 0.58953685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b55f169176ff7b0800000000000000
+      internalID: -5188314886992209118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 171
+        width: 146
+        height: 118
+      alignment: 9
+      pivot: {x: 0.44112673, y: 0.7003188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f1b4394e0a627b0800000000000000
+      internalID: -5249331412069572811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 166
+        width: 146
+        height: 124
+      alignment: 9
+      pivot: {x: 0.43622077, y: 0.7079559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe884a06a1cc6390800000000000000
+      internalID: -7823665533768134916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 170
+        width: 146
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4411268, y: 0.7029493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3e8c889e20692f0800000000000000
+      internalID: -966581867978890256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 180
+        width: 146
+        height: 109
+      alignment: 9
+      pivot: {x: 0.43622077, y: 0.6708587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f36cfb60bc9380800000000000000
+      internalID: -8963095180531730469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 177
+        width: 146
+        height: 110
+      alignment: 9
+      pivot: {x: 0.44112742, y: 0.66930515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05adae8380c77f50800000000000000
+      internalID: 6879178627098715406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 146
+        height: 108
+      alignment: 9
+      pivot: {x: 0.43131456, y: 0.67244065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693c04e03ddd9bc30800000000000000
+      internalID: 4375772411514110870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 6
+        width: 146
+        height: 106
+      alignment: 9
+      pivot: {x: 0.43622077, y: 0.66893697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3312d18e9d1a4a0800000000000000
+      internalID: -6583741589294599189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 23
+        width: 168
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5127912, y: 0.60581565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df45d67ea4482400800000000000000
+      internalID: 299564891328827348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bird-sprite-portable-network-graphics-clip-art-ima-2-sprite-game-png-for-free-download-on-ya-webdesi-5c6cf275445f08.2392291815506438292801_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 22
+        width: 180
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5457211, y: 0.46256632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da02f444dc8d5eb0800000000000000
+      internalID: -4729469190351484201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
